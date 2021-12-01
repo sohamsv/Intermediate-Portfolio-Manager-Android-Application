@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">CJ Portfolio Manager</string>
+    <string name="pdetails">Client Details</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="phoneNo">Mobile / Phone No</string>
+    <string name="address">Address</string>
+    <string name="aadhar">Aadhaar Card No</string>
+    <string name="pan">Pan Card No</string>
+    <string name="bdetails">Client Bank Details</string>
+    <string name="Bname">Bank Name</string>
+    <string name="branch">Bank Branch</string>
+    <string name="holdr">Account Holders Name</string>
+    <string name="AccNo">Account No</string>
+    <string name="ifsc">IFSC CODE</string>
+    <string name="upi">UPI ID</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="new_client">New Client</string>
+    <string name="client_pdfs">Client PDFs</string>
+    <string name="create_pdf">Create PDF</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_login1">LoginActivity1</string>
+    <string name="login">login</string>
+    <string name="logo">Logo</string>
+    <string name="agreement_details">Agreement Details</string>
+    <string name="broker_age">Broker Age</string>
+    <string name="period_of_agreement_months">Period of agreement (Months)</string>
+
+    <string name="date_of_amount_received">Date of amount received</string>
+    <string name="amount_rec">Amount received</string>
+    <string name="account_opening_chargers">Account Opening Chargers (Words)</string>
+    <string name="locking_period_months">locking period (months)</string>
+
+    <string name="period_of_agreement">Period of agreement (months)</string>
+    <string name="amount_recieved">Amount Received</string>
+    <string name="amount_recieved_in_words">Amount received in words</string>
+    <string name="date_of_amount_rec">Date of amount received</string>
+    <string name="account_opening_char">Account opening chargers</string>
+    <string name="locking_period_in_months">Locking period (in months)</string>
+    <string name="starting_date">Starting date (Monthly Payback)</string>
+    <string name="ending_date">Ending date (Monthly Payback)</string>
+    <string name="client_age">Client age</string>
+    <string name="dateformat">DD/MM/YYYY - date format</string>
+    <string name="payback_amount_words">Payback Amount (Words)</string>
+    <string name="profileicon">profileicon</string>
+    <string name="pdficon">pdficon</string>
+    <string name="saved_pdfs">Saved PDFs</string>
+
+
+</resources>
